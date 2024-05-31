@@ -15,3 +15,25 @@ ul li a {
     font-weight: 800;
 }
 
+div {
+  text-align: center;
+  color:crimson;
+  padding: 20px;
+  margin: 10px;
+  border: 10px;
+  border-color: black;
+
+}
+
+ul{
+  display: inline-block;
+  text-align: left;
+}
+
+.odin-recipes{
+    background-color: darkgray;
+}
+
+.recipes-list{
+    background-color: gray;
+}
